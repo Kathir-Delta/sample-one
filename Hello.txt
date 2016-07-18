@@ -1,12 +1,5 @@
 class {
-	some code here
-	// added in br_MyRel1
-	// edited in br_MyRel2 	
-<<<<<<< HEAD
-	// edited in br_MyRel2 by client
-	// added  in br_MyRel2 by client
-	
-=======
-	// added in br_MyRel2 by web
->>>>>>> 6d64e69a2a3d4a2d3585e947712b1afc811a6e59
+ 
+	totally new content
+ 
 }
