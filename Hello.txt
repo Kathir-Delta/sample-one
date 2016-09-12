@@ -1,10 +1,11 @@
-class {
+
+public class {
  
 	totally new content
 	
 	// add in web
  
- 
-   // add by stree
+	// add by stree
 	// add by stree with tab
+	// formatted in web 09/12
 }
