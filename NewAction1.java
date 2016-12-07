@@ -1,3 +1,3 @@
-public clas NewAction1 {
+public class NewAction1 {
 
 }
